@@ -2,3 +2,22 @@ The project connects local communities with e-waste recycling companies for resp
 
 
 ![image alt](https://github.com/om-makode/Ecothon/blob/9a84750064f3cded09e11b3e863c436ae03c1a11/E-WasteManagementProject/Ecothon-Project/images/Screenshot%202025-01-25%20230740.png)
+![image alt](https://github.com/om-makode/Ecothon/blob/340502a26a1a7a54eb0cac85fcc8f967b007622b/E-WasteManagementProject/Ecothon-Project/images/2.png)
+![image alt](https://github.com/om-makode/Ecothon/blob/340502a26a1a7a54eb0cac85fcc8f967b007622b/E-WasteManagementProject/Ecothon-Project/images/3.png)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+
+
