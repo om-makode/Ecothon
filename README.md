@@ -16,8 +16,12 @@ The project connects local communities with e-waste recycling companies for resp
 ![image alt](https://github.com/om-makode/Ecothon/blob/2116518fa6be1a9cbaa4ffc2865f214a27639978/E-WasteManagementProject/Ecothon-Project/images/13.png)
 ![image alt](https://github.com/om-makode/Ecothon/blob/2116518fa6be1a9cbaa4ffc2865f214a27639978/E-WasteManagementProject/Ecothon-Project/images/14.png)
 ![image alt](https://github.com/om-makode/Ecothon/blob/2116518fa6be1a9cbaa4ffc2865f214a27639978/E-WasteManagementProject/Ecothon-Project/images/15.png)
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/om-makode/Ecothon/blob/a3ac8083608c99536e74defc0a1549b15cb9e976/E-WasteManagementProject/Ecothon-Project/images/111.png)
+![image alt](https://github.com/om-makode/Ecothon/blob/a3ac8083608c99536e74defc0a1549b15cb9e976/E-WasteManagementProject/Ecothon-Project/images/222.png)
+![image alt](https://github.com/om-makode/Ecothon/blob/a3ac8083608c99536e74defc0a1549b15cb9e976/E-WasteManagementProject/Ecothon-Project/images/333.png)
+![image alt](https://github.com/om-makode/Ecothon/blob/a3ac8083608c99536e74defc0a1549b15cb9e976/E-WasteManagementProject/Ecothon-Project/images/444.png)
+![image alt](https://github.com/om-makode/Ecothon/blob/a3ac8083608c99536e74defc0a1549b15cb9e976/E-WasteManagementProject/Ecothon-Project/images/555.png)
+![image alt](https://github.com/om-makode/Ecothon/blob/a3ac8083608c99536e74defc0a1549b15cb9e976/E-WasteManagementProject/Ecothon-Project/images/666.png)
+![image alt](https://github.com/om-makode/Ecothon/blob/a3ac8083608c99536e74defc0a1549b15cb9e976/E-WasteManagementProject/Ecothon-Project/images/777.png)
 
 
